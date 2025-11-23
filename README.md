@@ -1,4 +1,4 @@
-# 📘 Machine Learning Lab – Experiments 1 to 5
+# 📘 Machine Learning Lab – Experiments 1 to 10
 
 This repository contains the core Machine Learning laboratory experiments with simple explanations, advantages, disadvantages, and code implementations.
 
